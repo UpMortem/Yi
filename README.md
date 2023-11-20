@@ -5,7 +5,7 @@ steps to run:
 `pip install -r requirements.txt`
 
 3. set flask envs and run:
-`export FLASK_APP=app.py`
+`export FLASK_APP=app.py` &
 `flask run`
 
 
